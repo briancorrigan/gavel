@@ -1,4 +1,4 @@
-setuptool==45
+setuptools==45
 zope.interface>5.0.0
 amqp==2.3.2
 appdirs==1.4.3
