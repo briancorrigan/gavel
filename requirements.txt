@@ -1,5 +1,4 @@
-setuptools<46
-zope.interface>5.0.0
+setuptools<45
 amqp==2.3.2
 appdirs==1.4.3
 billiard==3.5.0.5
